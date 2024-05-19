@@ -7,6 +7,11 @@ from flasgger import Swagger
 app = Flask(__name__)
 Swagger(app)
 
+# Define a root route for testing
+@app.route('/')
+def home():
+    return "Welcome to the Heart Attack Prediction API!"
+
 # Load the trained pipeline
 pipeline_filename = os.path.join('trained_model', 'heartattack_prediction_pipeline.pkl')
 try:
