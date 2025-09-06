@@ -6,7 +6,7 @@ It is a full pipeline from model training to deployment, offering an **API that 
 
 ---
 
-## 🔧 Tools & Technologies Used
+## Tools & Technologies Used
 
 | Category        | Tools                                                       |
 |----------------|-------------------------------------------------------------|
