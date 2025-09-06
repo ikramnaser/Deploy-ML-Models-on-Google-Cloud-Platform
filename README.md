@@ -1,4 +1,4 @@
-# 🚑 Heart Attack Prediction API - GCP Deployed Machine Learning Service
+# Heart Attack Prediction API - GCP Deployed Machine Learning Service
 
 This project was developed during a hackathon focused on **deploying Machine Learning models at scale** using modern cloud and MLOps tools.
 
@@ -18,7 +18,7 @@ It is a full pipeline from model training to deployment, offering an **API that 
 
 ---
 
-## 🧠 What the Model Does
+## What the Model Does
 
 This Decision Tree Classifier predicts whether a patient is likely to suffer from heart disease based on clinical parameters such as:
 
@@ -31,7 +31,7 @@ This Decision Tree Classifier predicts whether a patient is likely to suffer fro
 
 ---
 
-## 🧪 Project Workflow
+## Project Workflow
 
 ### 🔹 1. Data Preprocessing & Training (`train_pipeline.py`)
 - Reads and cleans the dataset.
@@ -55,7 +55,7 @@ This Decision Tree Classifier predicts whether a patient is likely to suffer fro
 
 ---
 
-## 🧑‍💻 Skills
+## Skills
 
 - **End-to-End ML Project Ownership**: From raw CSV to a production-ready API.
 - **MLOps Foundations**: Model serialization, pipeline creation, and clean separation of training/inference code.
